@@ -33,7 +33,7 @@ Data Source: British Airlines passenger review dataset.
 
 Access the Dashboard:!!!!!!
 
-View the Interactive Dashboard ([Replace with the Tableau Public link after publishing.](https://public.tableau.com/app/profile/jacob.miller3602/viz/BritishAirwayReview_17340364377370/Dashboard1))
+View the Interactive Dashboard (Link](https://public.tableau.com/app/profile/jacob.miller3602/viz/BritishAirwayReview_17340364377370/Dashboard1))
 
 Explore Filters:!!!!!!!
 
